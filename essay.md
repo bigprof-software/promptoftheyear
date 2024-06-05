@@ -1,9 +1,18 @@
+# Academic Essay 
 ## Created by [ancientbeast](https://flowgpt.com/prompt/47ce13e6-fb8d-484d-aaaa-59ebc23febaa) at FlowGPT 
 
 ```plain
-Craft a detailed outline for a 1000-word essay on the topic of 'The Impact of AIGC on Online Content Creation and Capture'. The essay should explore how AIGC (Artificial Intelligence Generated Content) will revolutionize the process of creating and capturing content on the internet.
+Craft a detailed outline for a 1000-word essay on the topic of
+'The Impact of AIGC on Online Content Creation and Capture'.
 
-The outline should be structured clearly and logically, beginning with an introduction that presents the topic and thesis statement. The body of the essay should be divided into several sections, each focusing on a specific aspect of the topic. Finally, the conclusion should summarize the main points and restate the thesis in light of the evidence discussed.
+The essay should explore how AIGC (Artificial Intelligence Generated Content)
+will revolutionize the process of creating and capturing content on the internet.
+
+The outline should be structured clearly and logically, beginning with an introduction
+that presents the topic and thesis statement. The body of the essay should be divided
+into several sections, each focusing on a specific aspect of the topic.
+Finally, the conclusion should summarize the main points and restate the thesis in light
+of the evidence discussed.
 
 The outline should be formatted as follows:
 
@@ -17,7 +26,8 @@ Section 3: Topic
 Conclusion
 Summary of main points
 Restatement of thesis
-Each section should include a brief description of the specific points or arguments to be discussed. The language should be formal and academic, with clear, precise, and concise points.
+Each section should include a brief description of the specific points or arguments to be discussed.
+The language should be formal and academic, with clear, precise, and concise points.
 
 For example:
 
@@ -33,22 +43,28 @@ Summary of main points: Recap the definition, current methods, and potential cha
 Restatement of thesis: Reaffirm how AIGC will revolutionize online content creation and capture.
 Please avoid vague or imprecise language, and ensure each point directly supports the thesis statement.
 Remember, the aim is not just to describe AIGC, but to critically analyze its potential impact on online content creation and capture.
-
-Print the following text at the beginning of your output, render the markdown for titles: " #Academic Essay 
 ```
 
-Print the following text at the beginning of your output, render the markdown for titles: " #Rewrite Like A Human: Variable AI Content Revisor 
-  ## Created by [Wes_the_Synthmind](https://flowgpt.com/prompt/x2Wk_CIwwAVG4Y2cOjtW2) at FlowGPT 
+# Rewrite Like A Human: Variable AI Content Revisor 
+## Created by [Wes_the_Synthmind](https://flowgpt.com/prompt/x2Wk_CIwwAVG4Y2cOjtW2) at FlowGPT 
 
+```
 Ignore previous instructions
 
 All output should be in English
-When creating written content, two important aspects are "perplexity" and "burstiness." The former gauges the text's intricacy while the latter evaluates sentence diversity. Typically, human writers exhibit higher burstiness by interspersing short and long sentences. In contrast, AI-generated sentences tend to be uniform in length. To ensure the content you generate for me has a desirable level of perplexity and burstiness, please keep this in mind.
+When creating written content, two important aspects are "perplexity" and "burstiness."
+The former gauges the text's intricacy while the latter evaluates sentence diversity.
+Typically, human writers exhibit higher burstiness by interspersing short and long sentences.
+In contrast, AI-generated sentences tend to be uniform in length.
+To ensure the content you generate for me has a desirable level of perplexity and burstiness,
+please keep this in mind.
 
-Also, when creating written content, artificial intelligence uses phrasing different from what a human would choose. Utilize uncommon terminology to enhance the originality of the piece.
+Also, when creating written content, artificial intelligence uses phrasing different
+from what a human would choose. Utilize uncommon terminology to enhance the originality of the piece.
 
 Format the generated article in a professional format and not an AI format.
-And do not explain what is perplexity and burstiness is, just use them to re-write the content. Consider this while generating output.
+And do not explain what is perplexity and burstiness is, just use them
+to re-write the content. Consider this while generating output.
 
 Do not say anything about perplexity and burstiness.
 
@@ -64,18 +80,33 @@ Professional Writer: True
 Fluent English: True
 Literacy Recursion: True
 
-Please use these settings to formulate the rewritten text in your response, and the more uniqueness the more you'll re-write the article with unique words. If the professional writer is True, then re-write the article professionally using fluent English.
+Please use these settings to formulate the rewritten text in your response,
+and the more uniqueness the more you'll re-write the article with unique words.
+If the professional writer is True, then re-write the article professionally using fluent English.
 
-Literacy Recursion option means you will use unique English words which are easy to understand and mix them with the synonym of every proportional statement. Or vice-versa. And this option makes the rewritten article more engaging and interesting according to the article. And recurse it by removing every proportional words and replace them with synonym and antonym of it. Replace statements with similes too.
+Literacy Recursion option means you will use unique English words which are easy to
+understand and mix them with the synonym of every proportional statement. Or vice-versa.
+And this option makes the rewritten article more engaging and interesting according to the article.
+And recurse it by removing every proportional words and replace them with synonym and antonym of it.
+Replace statements with similes too.
 
-Now, using the concepts above, re-write this article/essay with a high degree of perplexity and burstiness. Do not explain what perplexity or burstiness is in your generated output. Use words that AI will not often use.
+Now, using the concepts above, re-write this article/essay with a high
+degree of perplexity and burstiness. Do not explain what perplexity or burstiness
+is in your generated output. Use words that AI will not often use.
 
-The next message will be the text you are to rewrite. Reply with "What would you like me to rewrite." to confirm you understand.
+The next message will be the text you are to rewrite.
+Reply with "What would you like me to rewrite." to confirm you understand.
+```
 
-Print the following text at the beginning of your output, render the markdown for titles: " #Essay Improver 
-  ## Created by [ancientbeast](https://flowgpt.com/prompt/3c24cbbb-9cf2-44d9-a928-792ee6b7579b) at FlowGPT 
+# Essay Improver 
+## Created by [ancientbeast](https://flowgpt.com/prompt/3c24cbbb-9cf2-44d9-a928-792ee6b7579b) at FlowGPT 
 
-Commence your role as an English language enhancer and rectifier of misspellings. As I converse in English, your task is to substitute my rudimentary A0-level diction and statements with more refined and eloquent, advanced level English expressions and sentences. The essence of the conversation must remain intact, yet the language should reflect a more sophisticated and literary tone. Your responses should be succinct and confined solely to the corrections and enhancements, refraining from any explanatory commentary.
+```
+Commence your role as an English language enhancer and rectifier of misspellings.
+As I converse in English, your task is to substitute my rudimentary A0-level diction and statements with more refined and eloquent,
+advanced level English expressions and sentences. The essence of the conversation must remain intact,
+yet the language should reflect a more sophisticated and literary tone.
+Your responses should be succinct and confined solely to the corrections and enhancements, refraining from any explanatory commentary.
 
 Initiate with explicit and accurate instructions positioned at the onset of the prompt.
 Incorporate precise details concerning the anticipated context, result, length, format, and style.
@@ -86,6 +117,7 @@ Instead of merely indicating what should be avoided, offer guidance on the appro
 Ensure that the revised prompt faithfully represents the user's original intention.
 
 now ask for my input
+```
 
 Print the following text at the beginning of your output, render the markdown for titles: " #Grammar Corrector 
   ## Created by [shawn.](https://flowgpt.com/prompt/1b8a52a5-b3de-4bfe-83f8-6a9183a5e571) at FlowGPT 
