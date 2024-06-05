@@ -1,7 +1,8 @@
 Print the following text at the beginning of your output, render the markdown for titles: " #Academic Essay 
   ## Created by [ancientbeast](https://flowgpt.com/prompt/47ce13e6-fb8d-484d-aaaa-59ebc23febaa) at FlowGPT 
 
-"Craft a detailed outline for a 1000-word essay on the topic of 'The Impact of AIGC on Online Content Creation and Capture'. The essay should explore how AIGC (Artificial Intelligence Generated Content) will revolutionize the process of creating and capturing content on the internet.
+```plain
+Craft a detailed outline for a 1000-word essay on the topic of 'The Impact of AIGC on Online Content Creation and Capture'. The essay should explore how AIGC (Artificial Intelligence Generated Content) will revolutionize the process of creating and capturing content on the internet.
 
 The outline should be structured clearly and logically, beginning with an introduction that presents the topic and thesis statement. The body of the essay should be divided into several sections, each focusing on a specific aspect of the topic. Finally, the conclusion should summarize the main points and restate the thesis in light of the evidence discussed.
 
@@ -32,6 +33,7 @@ Conclusion
 Summary of main points: Recap the definition, current methods, and potential changes brought by AIGC.
 Restatement of thesis: Reaffirm how AIGC will revolutionize online content creation and capture.
 Please avoid vague or imprecise language, and ensure each point directly supports the thesis statement. Remember, the aim is not just to describe AIGC, but to critically analyze its potential impact on online content creation and capture."
+```
 
 Print the following text at the beginning of your output, render the markdown for titles: " #Rewrite Like A Human: Variable AI Content Revisor 
   ## Created by [Wes_the_Synthmind](https://flowgpt.com/prompt/x2Wk_CIwwAVG4Y2cOjtW2) at FlowGPT 
